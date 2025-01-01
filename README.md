@@ -1,3 +1,5 @@
 <section>
-  <h1 style="opacity: 1; transform: translateX(0px) translateZ(0px);">Hello</h1>
+  <h1>Timurkaaa</h1>
+  <h2>A lot of code</h2>
+  <h4>A bit of design</h3>
 </section>
