@@ -30,25 +30,23 @@
   <h1>PORTFOLIO:</h1>
   <div class="discord">
     <h4>DISCORD</h4>
-    <a href="https://github.com/Timurkaaaaaaa/multipage-modal-windows-disnake">Multipage Modal Windows</a>
+    <a href="https://github.com/Timurkaaaaaaa/multipage-modal-windows-disnake"><kbd>Multipage Modal Windows</kbd></a>
   </div>
   <div class="desktop">
     <h4>DESKTOP</h4>
-    <a href="https://github.com/Timurkaaaaaaa/GOS-Pamyatka">Interactive Reminder</a><br>
-    <a href="https://github.com/Timurkaaaaaaa/UNIX-Time">UNIX Converter v.1</a><br>
-    <a href="https://github.com/Timurkaaaaaaa/UNIX-Converter">UNIX Converter v.2</a>
+    <a href="https://github.com/Timurkaaaaaaa/GOS-Pamyatka"><kbd>Interactive Reminder</kbd></a><br>
+    <a href="https://github.com/Timurkaaaaaaa/UNIX-Time"><kbd>UNIX Converter v.1</kbd></a><br>
+    <a href="https://github.com/Timurkaaaaaaa/UNIX-Converter"><kbd>UNIX Converter v.2</kbd></a>
   </div>
 </section>
 <hr>
-<section>
-  <center>
-    <h1>Write to me, don't be shy (:</h1></center>
-    <div class="my-contacts">
-      <h6 class="my-contact--links">
-        <a href="https://discordapp.com/users/771247907315384320/">Discord</a>
-        <a href="https://t.me/Timurkaaa123">Telegram</a>
-        <a href="https://steamcommunity.com/profiles/76561199379029828/">Steam</a>
-      </h6>
-    </div>
-  </center>
+<section align="center">
+  <h1>Write to me, don't be shy (:</h1></center>
+  <div class="my-contacts">
+    <h6 class="my-contact--links">
+      <a href="https://discordapp.com/users/771247907315384320/">Discord</a>
+      <a href="https://t.me/Timurkaaa123">Telegram</a>
+      <a href="https://steamcommunity.com/profiles/76561199379029828/">Steam</a>
+    </h6>
+  </div>
 </section>
