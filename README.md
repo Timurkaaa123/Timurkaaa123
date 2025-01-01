@@ -1,15 +1,54 @@
 <section id="welcome">
-  <h1>Timurkaaa</h1>
-  <h2>A lot of code</h2>
-  <h4>A bit of design</h3>
+  <div class="welcome-about-me">
+    <h1>Timurkaaa</h1>
+    <h2>A lot of code</h2>
+    <h3>A bit of design</h3>
+  </div>
   <br>
   <div class="welcome-dialog">
-    <h5>Hello, %USERNAME%!</h5>
+    <h3>Hello, %USERNAME%!</h3>
     <div class="welcome-dialog--item">
       <div>My name is Timur and I am a beginner programmer</div>
-      <div>
-        <h6>I create websites and programs</small>
-      </div>
+    </div>
+    <div class="welcome-dialog--item">
+      <div>I can create user-friendly interfaces</div>
+    </div>
+    <div class="welcome-dialog--item">
+      <div>I love chocolate cookies</div>
     </div>
   </div>
+  <br>
+  <div class="welcome-skils">
+    <img src="https://img.icons8.com/?size=60&id=Yfprg8CASXbD&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=60&id=9LzTKJEpw79X&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=60&id=52wKEsyyo49O&format=png&color=000000">
+    <img src="https://img.icons8.com/?size=60&id=dRqM1lGcJv6U&format=png&color=000000">
+  </div>
+</section>
+<hr>
+<section>
+  <h1>PORTFOLIO:</h1>
+  <div class="discord">
+    <h4>DISCORD</h4>
+    <a href="https://github.com/Timurkaaaaaaa/multipage-modal-windows-disnake">Multipage Modal Windows</a>
+  </div>
+  <div class="desktop">
+    <h4>DESKTOP</h4>
+    <a href="https://github.com/Timurkaaaaaaa/GOS-Pamyatka">Interactive Reminder</a><br>
+    <a href="https://github.com/Timurkaaaaaaa/UNIX-Time">UNIX Converter v.1</a><br>
+    <a href="https://github.com/Timurkaaaaaaa/UNIX-Converter">UNIX Converter v.2</a>
+  </div>
+</section>
+<hr>
+<section>
+  <center>
+    <h1>Write to me, don't be shy (:</h1>
+    <div class="my-contacts">
+      <h6 class="my-contact--links">
+        <a href="https://discordapp.com/users/771247907315384320/">Discord</a>
+        <a href="https://t.me/Timurkaaa123">Telegram</a>
+        <a href="https://steamcommunity.com/profiles/76561199379029828/">Steam</a>
+      </h6>
+    </div>
+  </center>
 </section>
