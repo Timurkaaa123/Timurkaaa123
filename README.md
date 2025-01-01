@@ -42,7 +42,7 @@
 <hr>
 <section>
   <center>
-    <h1>Write to me, don't be shy (:</h1>
+    <h1>Write to me, don't be shy (:</h1></center>
     <div class="my-contacts">
       <h6 class="my-contact--links">
         <a href="https://discordapp.com/users/771247907315384320/">Discord</a>
