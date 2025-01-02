@@ -35,13 +35,21 @@
       <h1>PORTFOLIO:</h1>
       <div class="discord">
         <h4>DISCORD</h4>
-        <a href="https://github.com/Timurkaaaaaaa/multipage-modal-windows-disnake"><kbd>Multipage Modal Windows</kbd></a>
+        <a href="https://github.com/Timurkaaaaaaa/multipage-modal-windows-disnake">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/MultiPage-Modal-Windows.png?raw=true" width="350">
+        </a>
       </div>
       <div class="desktop">
         <h4>DESKTOP</h4>
-        <a href="https://github.com/Timurkaaaaaaa/GOS-Pamyatka"><kbd>Interactive Reminder</kbd></a><br>
-        <a href="https://github.com/Timurkaaaaaaa/UNIX-Time"><kbd>UNIX Converter v.1</kbd></a><br>
-        <a href="https://github.com/Timurkaaaaaaa/UNIX-Converter"><kbd>UNIX Converter v.2</kbd></a>
+        <a href="https://github.com/Timurkaaaaaaa/GOS-Pamyatka">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/Interactive%20Reminder.png?raw=true" width="350">
+        </a><br>
+        <a href="https://github.com/Timurkaaaaaaa/UNIX-Time">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/unix-1.png?raw=true" width="350">
+        </a><br>
+        <a href="https://github.com/Timurkaaaaaaa/UNIX-Converter">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/unix-2.png?raw=true" width="350">
+        </a>
       </div>
     </section>
     <hr>
