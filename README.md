@@ -22,10 +22,12 @@
       </div>
       <br>
       <div class="welcome-skils">
-        <img src="https://img.icons8.com/?size=60&id=Yfprg8CASXbD&format=png&color=000000">
-        <img src="https://img.icons8.com/?size=60&id=9LzTKJEpw79X&format=png&color=000000">
-        <img src="https://img.icons8.com/?size=60&id=52wKEsyyo49O&format=png&color=000000">
-        <img src="https://img.icons8.com/?size=60&id=dRqM1lGcJv6U&format=png&color=000000">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/python.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/c++.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/html.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/CSS.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/javascript.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/sql.png?raw=true" width="60" height="60">
       </div>
     </section>
     <hr>
