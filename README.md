@@ -1,11 +1,11 @@
-<DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
   <body>
     <section id="welcome">
       <div class="welcome-about-me">
-        <h1>Timurkaaa</h1>
-        <h2>A lot of code</h2>
-        <h3>A bit of design</h3>
+        <h1 style="opacity: 1; transform: translateX(0px) translateZ(0px);">ᴛɪᴍᴜʀᴋᴀᴀᴀ</h1>
+        <h2>ᴀ ʟᴏᴛ ᴏꜰ ᴄᴏᴅᴇ</h2>
+        <h3>ᴀ ʙɪᴛ ᴏꜰ ᴅᴇꜱɪɢɴ</h3>
       </div>
       <br>
       <div class="welcome-dialog">
