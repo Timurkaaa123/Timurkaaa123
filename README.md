@@ -22,12 +22,12 @@
       </div>
       <br>
       <div class="welcome-skils">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/python.png?raw=true" width="60" height="60" alt="python">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/c++.png?raw=true" width="60" height="60">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/html.png?raw=true" width="60" height="60">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/CSS.png?raw=true" width="60" height="60">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/javascript.png?raw=true" width="60" height="60">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/sql.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="python" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/python.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="C++" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/c++.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="HTML" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/html.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="CSS" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/CSS.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="JS" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/javascript.png?raw=true" width="60" height="60">
+        <img class="welcome-skils--item" id="SQL" src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/sql.png?raw=true" width="60" height="60">
       </div>
     </section>
     <hr>
