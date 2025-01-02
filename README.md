@@ -50,7 +50,6 @@
       <div class="my-contacts">
         <h6 class="my-contact--links">
           <a href="https://discordapp.com/users/771247907315384320/">Discord</a>
-          <a href="https://t.me/Timurkaaa123">Telegram</a>
           <a href="https://steamcommunity.com/profiles/76561199379029828/">Steam</a>
         </h6>
       </div>
