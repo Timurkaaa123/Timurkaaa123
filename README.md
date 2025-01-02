@@ -22,7 +22,7 @@
       </div>
       <br>
       <div class="welcome-skils">
-        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/python.png?raw=true" width="60" height="60">
+        <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/python.png?raw=true" width="60" height="60" alt="python">
         <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/c++.png?raw=true" width="60" height="60">
         <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/html.png?raw=true" width="60" height="60">
         <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/icons/CSS.png?raw=true" width="60" height="60">
