@@ -51,6 +51,11 @@
           <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/unix-2.png?raw=true" width="350">
         </a>
       </div>
+      <div class="programming-languages">
+        <h4>PROGRAMMING LANGUAGES</h4>
+        <a href="https://github.com/Timurkaaaaaaa/ProgressBar">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/progressBar.png?raw=true" width="350">
+        </a>
     </section>
     <hr>
     <section align="center">
