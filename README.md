@@ -56,6 +56,11 @@
         <a href="https://github.com/Timurkaaaaaaa/ProgressBar">
           <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/progressBar.png?raw=true" width="350">
         </a>
+      <div class="programming-languages">
+        <h4>GAMES</h4>
+        <a href="https://github.com/Timurkaaaaaaa/SquidGameMod/tree/main">
+          <img src="https://github.com/Timurkaaaaaaa/Timurkaaaaaaa/blob/main/badges/SquidGameMod.png?raw=true" width="350">
+        </a>
     </section>
     <hr>
     <section align="center">
