@@ -1,9 +1,6 @@
 Hi 👋 My name is Timurkaaa
 ==========================
 
-Beginner programmer
--------------------
-
 I'm a beginner developer. I study C++ and Python languages. Open to new knowledge and cooperation!
 
 * 🌍  I'm based in Russia, Moskow
