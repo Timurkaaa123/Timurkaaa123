@@ -4,7 +4,7 @@ Hi 👋 My name is Timurkaaa
 I'm a beginner developer. I study C++ and Python languages. Open to new knowledge and cooperation!
 
 * 🌍  I'm based in Russia, Moskow
-* 🚀  I'm currently working on [LiteEncoding](http://github.com/Timurkaaaaaaa/LiteEncoding)
+* 🚀  I'm currently working on [readme-creator](https://github.com/Timurkaaaaaaa/readme-creator)
 * 🧠  I'm learning C++ and Python
 
 ### Skills
