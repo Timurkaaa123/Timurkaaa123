@@ -4,7 +4,6 @@ Hi 👋 My name is Timurkaaa
 I'm a beginner developer. I study C++ and Python languages. Open to new knowledge and cooperation!
 
 * 🌍  I'm based in Russia, Moskow
-* 🚀  I'm currently working on [Timurkaaaaaaa.github.io](https://github.com/Timurkaaaaaaa/Timurkaaaaaaa.github.io)
 * 🧠  I'm learning C++ and Python
 
 ### Skills
