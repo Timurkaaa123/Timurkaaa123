@@ -1,4 +1,4 @@
-Hi 👋 My name is Timurkaaa
+Hi 👋
 ==========================
 
 I'm a beginner developer. I study C++ and Python languages. Open to new knowledge and cooperation!
